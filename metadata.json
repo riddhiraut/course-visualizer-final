@@ -1,0 +1,6 @@
+{
+  "name": "UGA Computing DegreeWorks Course Planner",
+  "description": "Comprehensive academic degree audit, prerequisite DAG visualizer, and double-major elective planning system for UGA Computing programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

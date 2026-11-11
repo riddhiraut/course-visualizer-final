@@ -1,0 +1,27 @@
+{
+  "users": {
+    "student@uga.edu": {
+      "id": "usr_1033d0a5-894b-41e1-8efc-4339672baa04",
+      "email": "student@uga.edu",
+      "name": "UGA Student",
+      "salt": "fb07688917e959ae73ad6aae8839ebcf",
+      "passwordHash": "55384223815702714c950a974719b375955e8025f38fb03c2bc95ffd6c0576bfe494181063980e092a61ff0153fd3dda8d03175fcc0b0c9ac016e0715c36c794",
+      "token": "aeb7205c765459bb65176d1a9c84fcb6fa028158f253df4d9bc1b525f2c7e205",
+      "createdAt": "2026-11-11T08:52:32.599Z",
+      "plannerState": {
+        "programs": [
+          "B.S. in Computer Science"
+        ],
+        "completed": [
+          "MATH 2250",
+          "CSCI 1301"
+        ],
+        "electives": [
+          "MATH 2260",
+          "MATH 3200"
+        ],
+        "updatedAt": "2026-11-11T08:52:53.766Z"
+      }
+    }
+  }
+}
