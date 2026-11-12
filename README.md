@@ -8,11 +8,10 @@ I've now incorporated ALL of UGA's computing and computing-adjacent programs int
 
 **Roadmap**
 - [x] Design pre-requisite dependency graphs for 2 sample majors (CS + DS)
-- [x] Build first ver. or prototype with only required courses for the 2 majors
-- [x] Format according to UGA's official Style Guide
+- [x] Build first ver. of prototype with only required courses for the 2 majors
 - [x] Incorporate free choice logic for elective courses related to the 2 majors
 - [x] Port capabilities into full stack app
-- [x] Expand to computing/computing-adjacent adjacent majors + minors
+- [x] Expand to all of UGA's computing/computing-adjacent adjacent majors + minors
 - [x] Support custom multi-select Minor/Major combinations and allow "double-dipping"
 - [x] Add log-in persistence to save course selection
 - [ ] Integrate cumulative GPA tracking and GPA analytic
